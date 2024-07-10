@@ -1,0 +1,23 @@
+{
+  "name": "pinarrray",
+  "version": "1.0.1",
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Slizapien/piarrays"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Slizapien/piarray/issues"
+  },
+  "homepage": "https://github.com/Slizapien/piarray#readme",
+  "dependencies": {
+    "abbeeytea": "^1.1.6",
+    "pinsapod": "^1.1.5",
+    "queencrow": "^1.1.6"
+  }
+}
